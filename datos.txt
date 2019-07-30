@@ -1,6 +1,0 @@
-Alumno:Federico La Torre
-Materia: Interacción con dispositivos móviles
-Profesor: Omar Toyos
-Trabajo práctico 2. Segundo semestre Escuela Da Vinci. 2018
-
-Pagina web del trabajo: https://tpfacultad.000webhostapp.com/
