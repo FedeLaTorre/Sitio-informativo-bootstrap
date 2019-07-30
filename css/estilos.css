@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+
+
+}
+
+.mb-0{
+    padding-bottom: 10px;
+}
+.navbar-dark{
+    background: #fb8c00;
+}
+.footer{
+    background: #fb8c00;
+}
+bg-dark{
+    background: #fb8c00;
+}
+
+body{
+    
+}
+p{
+    text-indent: 1.6em;
+    padding: 1em;
+}
+main {
+    padding-top: 6em;
+    
+}
+h1 {
+    font-size: 0;
+    text-indent: -400px;
+   
+}
+.fe{
+    max-height: 4em;
+}
+.card{
+    border: none;
+}
+.img-responsive{
+    width: 100vw;
+    max-width: 100%;
+}
+aside{
+    padding-left: 5em;
+    width: 90vw;
+}
+.mapa{
+    width: 50px;
+}
+#FB {
+    width: 50px;
+    height: 50px;
+    background: url("../img/facebook.png");
+    background-size: contain;
+    font-size: 0;
+}
+
+#TW {
+    width: 50px;
+    height: 50px;
+    background: url("../img/twitter.png");
+    background-size: contain;
+    font-size: 0;
+}
+
+#IG {
+    width: 50px;
+    height: 50px;
+    background: url("../img/instagram.png");
+    background-size: contain;
+    font-size: 0;
+}
+
+@media screen and (min-width: 900px){
+    main {
+    padding-top: 8.5em;
+    
+}
+    .fe{
+        max-height: 12em;
+        max-height: 6.5em;
+        padding-left: 8em;
+     
+        
+    }
+}
+@media (max-width: 768px) {
+aside{
+    padding-left: 2em;
+    width: 90vw;
+}
+  .display-3 {
+    
+    font-size: 4em;
+    
+  }
+}
